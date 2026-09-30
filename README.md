@@ -6,6 +6,7 @@ Feita em: Python (CustomTkinter e Subprocess)
 ## Screenshot
 
 
-![Início](print.png)
+![Início](print.png) <br>
 Início
-![Sobre (0.1)](about.png)
+![Sobre (0.1)](about.png)<br>
+Sobre o cURL GUI
