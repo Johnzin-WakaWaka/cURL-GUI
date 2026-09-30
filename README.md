@@ -25,7 +25,7 @@ pip install customtkinter
 ou via AUR: <br>
 ```
 yay -S python-customtkinter   #Yay
-paru -S python-customtkinter
+paru -S python-customtkinter    #Paru
 ```
 ### Passo 3
 Rode ele usando: (python3 main.py) ou faça um atalho pra ele na área de trabalho <br>
