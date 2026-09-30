@@ -1,6 +1,6 @@
 # cURL-GUI
 Seja simples, rápido e funcional!
-Uma interfaçe gráfica para o cURL (CLI Tool), que permite fazer o uso do cURL em algo muito mais fácil e eficiente.
+Uma interfaçe gráfica para o cURL (CLI Tool), que permite fazer o uso do cURL em algo muito mais fácil e eficiente. <br>
 Feita em: Python (CustomTkinter e Subprocess)
 
 ## Screenshot
