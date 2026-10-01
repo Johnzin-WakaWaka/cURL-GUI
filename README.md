@@ -32,5 +32,4 @@ Rode ele usando: (python3 main.py) ou faça um atalho pra ele na área de trabal
 
 ## Screenshot
 ![Início](print.png) <br>
-![Sobre (0.1)](about.png)<br>
 ![Baixando](downloading.png)<br>
